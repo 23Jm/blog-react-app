@@ -17,7 +17,7 @@ body {
   background-color: #efefef;
 }
 
-#root {
+ #root {
   flex-grow: 1;
   display: flex;
   justify-content: center;
@@ -227,7 +227,7 @@ body {
 
 @media only screen and (min-width: 610px) {
   html {
-    font-size: 22px;
+    font-size: 12px;
   }
 
   .Header h1 {
